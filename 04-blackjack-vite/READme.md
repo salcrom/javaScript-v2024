@@ -10,4 +10,5 @@ Pasos para ejecutar el proyecto
 ## Producción
 
 1. Ejecutar ```npm run build```
-2. Tomar la carpeta ```dist```y desplegarla
+2. Tomar la carpeta ```dist```,y desplegarla
+3. Para despliegue en Github, hay que cambiar el nombre de la carpeta dist a docs
